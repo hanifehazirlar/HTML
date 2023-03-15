@@ -1,0 +1,6 @@
+<!-- Onemli NOT:
+                 ../            bir üst klasör(parent)
+                 ../../         daha üst klasöre çıkma(grandparent)
+                 /              projenin root klasörü  (ata klasor)
+                 ./             mevcut klasör(kardes klasor)
+-->
