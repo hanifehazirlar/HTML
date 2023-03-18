@@ -1,0 +1,19 @@
+*{
+  
+    color: cornflowerblue;
+ 
+}
+.highlight{
+    font-size: 1.2rem;
+    color:rgb(255, 98, 0)
+
+}
+.center{
+    text-align: center;
+}
+#p1{
+    text-align: justify;
+}
+h1.center{
+    background-color: rgba(109, 9, 122, 0.927);
+}
