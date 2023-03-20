@@ -1,0 +1,9 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-family: 'Oswald',sans-serif;
+}
+h1.title{
+    text-decoration: line-through;
+}
